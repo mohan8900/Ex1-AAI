@@ -1,5 +1,5 @@
-<H3> Name:Dharani E </H3>
-<H3>Register No.212221230021</H3>
+<H3> Name:A K MOHAN RAJ </H3>
+<H3>Register 212221230064</H3>
 <H3> Experiment 1</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
